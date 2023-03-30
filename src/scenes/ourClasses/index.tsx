@@ -10,7 +10,7 @@ import image6 from "@/assets/image6.png";
 import HText from "@/shared/HText";
 import Class from "./Class";
 
-// Could also be defined as: const classes: ClassType[{...},]
+// Could also be defined as: const classes: ClassType[] = [{...},]
 const classes: Array<ClassType> = [
   {
     name: "Weight Training Classes",
